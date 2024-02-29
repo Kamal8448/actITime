@@ -16,7 +16,6 @@ import java.sql.SQLOutput;
 @Test
 public class actiTimeTestRunner {
     public WebDriver driver = null;
-    
     String pass_fail=null;
 
     public void loggingIn() throws FileNotFoundException {
